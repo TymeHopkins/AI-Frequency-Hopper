@@ -1,1 +1,1 @@
-# AI-Frequency-Hopper
+# AI Frequency Hopper
